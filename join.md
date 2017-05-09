@@ -1,4 +1,8 @@
-# Join NL-RSE
+---
+layout: page
+title: Join NL-RSE
+permalink: /join/
+---
 
 Joining the RSE Community is easy – just sign up to our mailing list. [insert instruction on how to join here].
 
