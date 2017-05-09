@@ -9,7 +9,7 @@ NL-RSE was formed in April 2017 after the example of the RSE communities in the 
 The initiative was taken by the [Netherlands eScience Center](http://www.esciencecenter.nl)
 and [ePLAN](https://escience-platform.nl/) to bring together the RSE community in the Netherlands.
 
-## NL-RSE committee
+### NL-RSE committee
 
 The NL-RSE committe currently consists of the following members:
 
