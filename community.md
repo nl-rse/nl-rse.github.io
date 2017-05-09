@@ -1,5 +1,8 @@
-
-# Community
+---
+layout: page
+title: Community
+permalink: /community/
+---
 
 NL-RSE was formed in April 2017 after the example of the RSE communities in the [UK](http://rse.ac.uk) and [Germany](http://www.de-rse.org/en/). 
 
