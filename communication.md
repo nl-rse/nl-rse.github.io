@@ -1,4 +1,8 @@
-# Communicate
+---
+layout: page
+title: Communicate
+permalink: /communicate/
+---
 
 Once you have joined, there are several options for getting involved with the dynamic and friendly
 Research Software Engineering community:
