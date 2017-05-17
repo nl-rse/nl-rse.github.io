@@ -12,7 +12,7 @@ Take part in discussion in the NL-RSE Slack Group. [add instruction on how to jo
 
 ### Announce something to the whole community
 
-Send any announcements and job postings to [insert mailing list address here] for distribution to the entire mailing list (subject to moderation)
+Send any announcements and job postings to everyone@lists.nl-rse.org for distribution to the entire mailing list (subject to moderation)
 
 ### Contact the organisers
 
