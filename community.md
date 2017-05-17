@@ -11,7 +11,7 @@ and [ePLAN](https://escience-platform.nl/) to bring together the RSE community i
 
 ### NL-RSE committee
 
-The NL-RSE committe currently consists of the following members:
+The NL-RSE committee currently consists of the following members:
 
 Ben, Jason, Lode, Mateusz, Niels, Rob, Tom
 
