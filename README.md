@@ -4,4 +4,6 @@ Welcome at NL-RSE: the Research Software Engineer community in the Netherlands. 
  
 As a start, we think of organizing a meetup of Research Software Engineers in the second half of 2017. We’ll soon make a mailinglist available to keep you up-to-date.
 
+**Joining the RSE Community is easy – just sign up to our mailing list [here](https://lists.nl-rse.org/mailman/listinfo/everyone).**
+
 April, 2017
