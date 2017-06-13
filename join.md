@@ -3,7 +3,7 @@ layout: page
 title: Join NL-RSE
 ---
 
-Joining the RSE Community is easy – just sign up to our mailing list [here](https://lists.nl-rse.org/mailman/listinfo/everyone).
+Joining the NL-RSE Community is easy – just sign up to our mailing list [here](https://lists.nl-rse.org/mailman/listinfo/everyone).
 
 ## Why join?
 
