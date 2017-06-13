@@ -9,7 +9,7 @@ and other relevant organizations to share knowledge, to organize
 meetings and raise awareness for the scientific recognition of 
 research software.
 
-As a start, we think of organizing a meetup of Research Software Engineers in the second half of 2017.
+We are planning to organize a meetup of Research Software Engineers in the second half of 2017. Signup to our mailing list to stay informed about any activities!
 
 April, 2017
 
