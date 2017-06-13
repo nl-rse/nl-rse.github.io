@@ -3,12 +3,12 @@ layout: page
 title: Communicate
 ---
 
-Once you have joined, there are several options for getting involved with the dynamic and friendly
+Once you have [joined the mailinglist](https://lists.nl-rse.org/mailman/listinfo/everyone), there are several options for getting involved with the dynamic and friendly
 Research Software Engineering community:
 
 ### Join the discussion
 
-Take part in discussion in the NL-RSE Slack Group! You can request access to the slack group by sending an email to info@nl-rse.org.
+Take part in discussion in the [NL-RSE Slack Group](nl-rse.slack.com)! You can request access to the slack group by sending an email to info@nl-rse.org.
 
 ### Announce something to the whole community
 
