@@ -1,3 +1,4 @@
+
 ## The Netherlands Research Software Engineer community
 
 Welcome at NL-RSE: the Research Software Engineer community in the 
@@ -16,9 +17,9 @@ informed about any activities!
 <!--- ## Join us! --->
 
 <a href="https://lists.nl-rse.org/mailman/listinfo/everyone">
-<img width="200px" src="img/join.jpg"></a>
+<img width="250px" src="img/signup.png"></a>
 
-Joining the NL-RSE Community is easy! Just sign up to our mailing list [here](https://lists.nl-rse.org/mailman/listinfo/everyone).
+Joining the NL-RSE Community is easy! [Just sign up to our mailing list!](https://lists.nl-rse.org/mailman/listinfo/everyone)
 
 
 ## What is a Research Software Engineer?
