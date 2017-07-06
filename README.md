@@ -1,3 +1,4 @@
+
 ## The Netherlands Research Software Engineer community
 
 Welcome at NL-RSE: the Research Software Engineer community in the 
@@ -9,14 +10,16 @@ and other relevant organizations to share knowledge, to organize
 meetings and raise awareness for the scientific recognition of 
 research software.
 
-We are planning to organize a meetup of Research Software Engineers in the second half of 2017. Signup to our mailing list to stay informed about any activities!
+We are planning to organize a meetup of Research Software Engineers in the second half of 2017. Signup to our mailing list to stay 
+informed about any activities!
 
-April, 2017
 
+<!--- ## Join us! --->
 
-## Join us!
+<a href="https://lists.nl-rse.org/mailman/listinfo/everyone">
+<img width="250px" src="img/signup.png"></a>
 
-Joining the NL-RSE Community is easy – just sign up to our mailing list [here](https://lists.nl-rse.org/mailman/listinfo/everyone).
+Joining the NL-RSE Community is easy! [Just sign up to our mailing list!](https://lists.nl-rse.org/mailman/listinfo/everyone)
 
 
 ## What is a Research Software Engineer?
