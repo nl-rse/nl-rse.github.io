@@ -182,7 +182,7 @@ pre {
 .home {
   max-width: -webkit-calc(#{$content-width} - #{$rightcol-width} - (#{$spacing-unit} * 2));
   max-width:         calc(#{$content-width} - #{$rightcol-width} - (#{$spacing-unit} * 2));
-  display: inline-block;
+  float: left;
 
   @include media-query($on-laptop) {
     max-width: -webkit-calc(#{$content-width} - #{$rightcol-width} - (#{$spacing-unit} * 2));
@@ -193,7 +193,7 @@ pre {
 .post {
   max-width: -webkit-calc(#{$content-width} - #{$rightcol-width} - (#{$spacing-unit} * 2));
   max-width:         calc(#{$content-width} - #{$rightcol-width} - (#{$spacing-unit} * 2));
-  display: inline-block;
+  float: left;
 
   @include media-query($on-laptop) {
     max-width: -webkit-calc(#{$content-width} - #{$rightcol-width} - (#{$spacing-unit} * 2));
