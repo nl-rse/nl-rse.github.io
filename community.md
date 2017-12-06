@@ -12,6 +12,7 @@ The community is growing quickly! RSEs from the following institutes have alread
 
 - Amsterdam University of Applied Sciences
 - Astron
+- Data Archiving and Networked Services (DANS)
 - Delft Univeristy of Technology
 - Huygens ING
 - Leiden University Library
@@ -22,6 +23,7 @@ The community is growing quickly! RSEs from the following institutes have alread
 - University of Amsterdam
 - Utrecht University
 - VU University Amsterdam
+- Wageningen University & Research
 
 Your institute in the list? Join NL-RSE and email info@nl-rse.org.
 
