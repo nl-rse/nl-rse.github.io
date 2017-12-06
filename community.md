@@ -13,7 +13,7 @@ The community is growing quickly! RSEs from the following institutes have alread
 - Amsterdam University of Applied Sciences
 - Astron
 - Data Archiving and Networked Services (DANS)
-- Delft Univeristy of Technology
+- Delft University of Technology
 - Huygens ING
 - Leiden University Library
 - Leiden University Medical Center
