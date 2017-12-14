@@ -17,9 +17,12 @@ The community is growing quickly! RSEs from the following institutes have alread
 - Huygens ING
 - Leiden University Library
 - Leiden University Medical Center
+- Meertens Institute
 - National Library of the Netherlands
 - Netherlands eScience Center
 - Radboud University Medical Center
+- Radboud University Nijmegen
+- Royal Netherlands Meteorological Institute
 - University of Amsterdam
 - Utrecht University
 - VU University Amsterdam
