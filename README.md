@@ -1,8 +1,8 @@
 
 ## The Netherlands Research Software Engineer community
 
-Welcome at NL-RSE: the Research Software Engineer community in the 
-Netherlands. Following the great initiatives in the 
+Welcome at NL-RSE: the community for engineers of research software in the Netherlands. 
+Following the great initiatives in the 
 [UK](http://rse.ac.uk/) and [Germany](http://www.de-rse.org/de), 
 we plan to bring together the community of Research Software 
 Engineers from Dutch universities, knowledge institutes, companies 
