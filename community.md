@@ -10,10 +10,13 @@ and [ePLAN](https://escience-platform.nl/) to bring together the RSE community i
 
 The community is growing quickly! RSEs from the following institutes have already joined NL-RSE:
 
+- AMOLF
 - Amsterdam University of Applied Sciences
+- ASML
 - Astron
 - Data Archiving and Networked Services (DANS)
 - Delft University of Technology
+- Dutch National Institute for Public Health and the Environment (RIVM)
 - Huygens ING
 - Leiden University Library
 - Leiden University Medical Center
@@ -23,7 +26,11 @@ The community is growing quickly! RSEs from the following institutes have alread
 - Radboud University Medical Center
 - Radboud University Nijmegen
 - Royal Netherlands Meteorological Institute
+- SRON Netherlands Institute for Space Research
+- SURFsara
+- UMC Utrecht
 - University of Amsterdam
+- University of Twente
 - Utrecht University
 - VU University Amsterdam
 - Wageningen University & Research
