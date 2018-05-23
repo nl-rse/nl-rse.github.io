@@ -43,13 +43,19 @@ The community is growing quickly! RSEs from the following institutes have alread
 
 Your institute in the list? Join NL-RSE and email info@nl-rse.org.
 
-### NL-RSE committee
+### NL-RSE Core Team
 
-The NL-RSE committee currently consists of the following members:
+The NL-RSE core team currently consists of the following members:
 
-Ben, Jason, Lode, Mateusz, Niels, Rob, Tom
+James Meakin, Radboud UMC
+Susan Branchett, TU Delft
+Vahid Garousi, Wageningen University & Research
+Mateusz Kuzak, Dutch Techcentre for Life Sciences
+Maria Cruz, TU Delft
+Niels Drost, Netherlands eScience Center
+Ben van Werkhoven, Netherlands eScience Center
 
-If you would like to get involved actively please send an email to info@nl-rse.org.
+If you would also like to get involved actively within NL-RSE, please send an email to info@nl-rse.org.
 
 
 
