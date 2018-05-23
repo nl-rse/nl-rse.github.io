@@ -191,8 +191,8 @@ pre {
 }
 
 .post {
-  max-width: -webkit-calc(#{$content-width} - #{$rightcol-width} - (#{$spacing-unit} * 2));
-  max-width:         calc(#{$content-width} - #{$rightcol-width} - (#{$spacing-unit} * 2));
+  width: -webkit-calc(#{$content-width} - #{$rightcol-width} - (#{$spacing-unit} * 2));
+  width:         calc(#{$content-width} - #{$rightcol-width} - (#{$spacing-unit} * 2));
   float: left;
 
   @include media-query($on-laptop) {

@@ -13,12 +13,24 @@ layout: default
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-
         <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
         </h2>
+        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+        <!--- <span class="post-meta">{{ post.date | date: date_format }}</span> --->
+
+        {% if post.content contains '<!--break-->' %}
+            <div class="post-content">
+                {{ post.content | split:'<!--break-->' | first }}
+                <a href="{{ post.url }}">Read more</a>
+            </div>
+        {% else %}
+            <div class="post-content">
+                {{ post.content }}
+            </div>
+        {% endif %}
+
+
       </li>
     {% endfor %}
   </ul>
