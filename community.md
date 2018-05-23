@@ -17,19 +17,25 @@ The community is growing quickly! RSEs from the following institutes have alread
 - Data Archiving and Networked Services (DANS)
 - Delft University of Technology
 - Dutch National Institute for Public Health and the Environment (RIVM)
+- Dutch Techcentre for Life Sciences (DTL)
+- Erasmus MC
 - Huygens ING
+- Leiden Observatory
 - Leiden University Library
 - Leiden University Medical Center
 - Meertens Institute
-- National Library of the Netherlands
+- National Library of the Netherlands (KB)
 - Netherlands eScience Center
+- Netherlands Institute of Ecology
 - Radboud University Medical Center
 - Radboud University Nijmegen
 - Royal Netherlands Meteorological Institute
+- Science [&] Technology Corporation
 - SRON Netherlands Institute for Space Research
 - SURFsara
 - UMC Utrecht
 - University of Amsterdam
+- University of Groningen
 - University of Twente
 - Utrecht University
 - VU University Amsterdam
