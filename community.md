@@ -47,12 +47,12 @@ Your institute in the list? Join NL-RSE and email info@nl-rse.org.
 
 The NL-RSE core team currently consists of the following members:
 
-James Meakin, Radboud UMC
-Susan Branchett, TU Delft
-Vahid Garousi, Wageningen University & Research
-Mateusz Kuzak, Dutch Techcentre for Life Sciences
-Maria Cruz, TU Delft
-Niels Drost, Netherlands eScience Center
+James Meakin, Radboud UMC  
+Susan Branchett, TU Delft  
+Vahid Garousi, Wageningen University & Research  
+Mateusz Kuzak, Dutch Techcentre for Life Sciences  
+Maria Cruz, TU Delft  
+Niels Drost, Netherlands eScience Center  
 Ben van Werkhoven, Netherlands eScience Center
 
 If you would also like to get involved actively within NL-RSE, please send an email to info@nl-rse.org.
