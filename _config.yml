@@ -24,3 +24,8 @@ header_pages:
 # Build settings
 markdown: kramdown
 theme: minima
+
+# Add _pages directory as a collection
+collections:
+  pages:
+    output: true
