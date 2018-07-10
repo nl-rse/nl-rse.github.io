@@ -4,32 +4,40 @@ layout: default
 
 <div class="home">
 
-  <!--- 
+  <!---
   <h1 class="page-heading">Posts</h1>
     --->
   
   {{ content }}
 
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.posts limit:10 %}
       <li>
+        <div class="blog-post">
+
         <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
-        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        <!--- <span class="post-meta">{{ post.date | date: date_format }}</span> --->
 
         {% if post.content contains '<!--break-->' %}
+            <div class="preview">
+            {% if post.image %}
+            <div class="preview-with-img">
+            {% else %}
             <div class="post-content">
-                {{ post.content | split:'<!--break-->' | first }}
-                <a href="{{ post.url }}">Read more</a>
+            {% endif %}
+            {{ post.content | split:'<!--break-->' | first }}
+            <a href="{{ post.url }}">Read more</a>
             </div>
+            {% if post.image %}
+            <a class="preview-img" href="{{ post.url | relative_url }}"><img src="{{ post.image }}"></a>
+            {% endif %}
         {% else %}
             <div class="post-content">
-                {{ post.content }}
-            </div>
+            {{ post.content }}
         {% endif %}
-
+            </div>
+            </div>
 
       </li>
     {% endfor %}
