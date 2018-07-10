@@ -17,9 +17,9 @@ minima:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
- - community.md
- - join.md
- - communication.md
+ - _pages/community.md
+ - _pages/join.md
+ - _pages/communication.md
 
 # Build settings
 markdown: kramdown
