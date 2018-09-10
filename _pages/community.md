@@ -14,15 +14,20 @@ The community is growing quickly! RSEs from the following institutes have alread
 - Amsterdam University of Applied Sciences
 - ASML
 - Astron
+- BaseClear
 - Data Archiving and Networked Services (DANS)
 - Delft University of Technology
+- Dell
 - Dutch National Institute for Public Health and the Environment (RIVM)
 - Dutch Techcentre for Life Sciences (DTL)
 - Erasmus MC
+- Erasmus University Rotterdam
 - Huygens ING
 - Leiden Observatory
 - Leiden University Library
 - Leiden University Medical Center
+- Maastricht University
+- Marin
 - Meertens Institute
 - National Library of the Netherlands (KB)
 - Netherlands eScience Center
@@ -31,6 +36,7 @@ The community is growing quickly! RSEs from the following institutes have alread
 - Radboud University Nijmegen
 - Royal Netherlands Meteorological Institute
 - Science [&] Technology Corporation
+- Software for Chemistry & Materials B.V. (SCM)
 - SRON Netherlands Institute for Space Research
 - SURFsara
 - UMC Utrecht
