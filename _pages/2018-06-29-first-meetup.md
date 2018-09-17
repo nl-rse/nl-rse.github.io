@@ -27,20 +27,22 @@ The meeting will be in English and the capacity will be limited to around 60 par
 
 ### Detailed program
 
-12:30 Arrival with Coffee
-13:00 Welcome, Purpose of the meeting
-13:15 Keynote by Ilian Todorov: The UK-RSE movement
-14:00 Introducing: NL-RSE by Ben van Werkhoven
-14:15 Coffee break
-14:45 Breakout in groups to discuss topics
-16:00 Wrap-up, short presentations of results by breakout groups
-16:30 Borrel
-17:30 end
+12:30 Arrival with Coffee  
+13:00 Welcome, Purpose of the meeting  
+13:15 Keynote by Ilian Todorov: The UK-RSE movement  
+14:00 Introducing: NL-RSE by Ben van Werkhoven  
+14:15 Coffee break  
+14:45 Breakout in groups to discuss topics  
+16:00 Wrap-up, short presentations of results by breakout groups  
+16:30 Borrel  
+17:30 end  
 
 ### Directions
 
-Jaarbeurs Innovation Mile (JIM), 6th floor Beatrixgebouw
-Jaarbeursplein 6, 3521 AL Utrecht
-after entering JIM ask hostess for "Tribune"
-Google maps location: https://www.google.nl/maps/place/Jaarbeurs+Innovation+Mile+(JIM)/@52.088211,5.1052876,17z/data=!3m1!4b1!4m5!3m4!1s0x47c66f670d2e3e15:0x901f758333651dfa!8m2!3d52.088211!4d5.1074763
+Jaarbeurs Innovation Mile (JIM), 6th floor Beatrixgebouw  
+Jaarbeursplein 6, 3521 AL Utrecht  
+after entering JIM ask hostess for "Tribune"  
 
+Google maps location:  
+
+<div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=jaarbeurs%20innovation%20mile%20utrecht&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></div><style>.mapouter{text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div>
