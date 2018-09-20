@@ -8,7 +8,8 @@ Research Software Engineering community:
 
 ### Join the discussion
 
-Take part in discussion in the [NL-RSE Slack Group](https://nl-rse.slack.com)! You can request access to the slack group by sending an email to info@nl-rse.org.
+Take part in the discussion in the #netherlands channel on the [RSE Slack Group](https://ukrse.slack.com)! You can request access to the slack group
+[using this form](https://docs.google.com/forms/d/e/1FAIpQLSc9LqOWGwA1xDvSgy81eimcb9s0cNBFso0zv0_HoZz16G1M5w/viewform?c=0&w=1).
 
 ### Announce something to the whole community
 
