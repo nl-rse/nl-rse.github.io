@@ -28,9 +28,9 @@ The meeting will be in English and the capacity will be limited to around 60 par
 ### Detailed program
 
 12:30 Arrival with Coffee  
-13:00 Welcome, Purpose of the meeting  
-13:15 Keynote by Ilian Todorov: The UK-RSE movement  
-14:00 [Introducing: NL-RSE](http://nl-rse.org/resources/NL-RSE-presentation-2018-09-20.pdf) by Ben van Werkhoven  
+13:00 [Welcome, Purpose of the meeting](http://nl-rse.org/resources/20180920/nl-rse-meeting-intro.pdf)  
+13:15 [Keynote by Ilian Todorov: The UK-RSE movement](http://nl-rse.org/resources/20180920/keynote-ilian-todorov.pdf)  
+14:00 [Introducing: NL-RSE by Ben van Werkhoven](http://nl-rse.org/resources/20180920/nl-rse-introduction.pdf)  
 14:15 Coffee break  
 14:45 Breakout in groups to discuss topics  
 16:00 Wrap-up, short presentations of results by breakout groups  
