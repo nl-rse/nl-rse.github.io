@@ -57,7 +57,7 @@ James Meakin, Radboud UMC
 Susan Branchett, TU Delft  
 Vahid Garousi, Wageningen University & Research  
 Mateusz Kuzak, Dutch Techcentre for Life Sciences  
-Maria Cruz, TU Delft  
+Maria Cruz, VU University Amsterdam  
 Niels Drost, Netherlands eScience Center  
 Ben van Werkhoven, Netherlands eScience Center
 Carlos Martinez, Netherlands eScience Center
