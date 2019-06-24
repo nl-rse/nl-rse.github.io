@@ -59,7 +59,7 @@ Vahid Garousi, Wageningen University & Research
 Mateusz Kuzak, Dutch Techcentre for Life Sciences  
 Maria Cruz, VU University Amsterdam  
 Niels Drost, Netherlands eScience Center  
-Ben van Werkhoven, Netherlands eScience Center
+Ben van Werkhoven, Netherlands eScience Center  
 Carlos Martinez, Netherlands eScience Center
 
 If you would also like to get involved actively within NL-RSE, please send an email to info@nl-rse.org.
