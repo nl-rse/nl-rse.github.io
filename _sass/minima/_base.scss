@@ -47,6 +47,11 @@ img {
   vertical-align: middle;
 }
 
+.post-header-img {
+  width: 100%;
+  object-fit: cover;
+  margin-bottom: $spacing-unit;  
+}
 
 
 /**
