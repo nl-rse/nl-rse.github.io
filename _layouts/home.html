@@ -7,37 +7,38 @@ layout: default
   <!---
   <h1 class="page-heading">Posts</h1>
     --->
-  
+
   {{ content }}
+
+  <div style="height: 20px"></div>
 
   <ul class="post-list">
     {% for post in site.posts limit:10 %}
       <li>
+
         <div class="blog-post">
+
+        {% if post.image %}
+        <a class="preview-img" href="{{ post.url | relative_url }}">
+            <img src="{{ post.image | prepend: site.baseurl | replace: '//', '/' }}" style="width: 100%; object-fit: cover;">
+        </a>
+        {% endif %}
+
+        <div class="post-content">
 
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
 
         {% if post.content contains '<!--break-->' %}
-            <div class="preview">
-            {% if post.image %}
-            <div class="preview-with-img">
-            {% else %}
-            <div class="post-content">
-            {% endif %}
             {{ post.content | split:'<!--break-->' | first }}
-            <a href="{{ post.url }}">Read more</a>
-            </div>
-            {% if post.image %}
-            <a class="preview-img" href="{{ post.url | relative_url }}"><img src="{{ post.image }}"></a>
-            {% endif %}
+            <a href="{{ post.url | relative_url }}">Read more</a>
         {% else %}
-            <div class="post-content">
             {{ post.content }}
         {% endif %}
-            </div>
-            </div>
+
+        </div>
+        </div>
 
       </li>
     {% endfor %}

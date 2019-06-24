@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What is a Research Software Engineer?
+excerpt_separator: <!--break-->
 ---
 
 Research Software Engineers (RSEs) are the people that closely collaborate
@@ -21,4 +22,3 @@ created. We are now working, together with RSE associations in the
 [UK](http://rse.ac.uk/) and [Germany](http://www.de-rse.org/de),
 to raise awareness of the role, and to bring the
 RSE community in the Netherlands together.
-
