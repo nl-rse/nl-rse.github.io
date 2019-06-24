@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: post
 title: First Meetup of the Netherlands Research Software Engineer Community - register Now!
+excerpt_separator: <!--break-->
 ---
 
 **When: 20 September 2018**
