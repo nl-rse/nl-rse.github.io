@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Introducing NL-RSE"
+canonical_url: https://blog.esciencecenter.nl/introducing-nl-rse-98431969e2b8
 ---
 
 *Bootstrapping the community of Research Software Engineers in the Netherlands*  
