@@ -14,6 +14,5 @@ universities, knowledge institutes, companies and other organizations to
 share knowledge, to organize meetings, and raise awareness for the
 scientific recognition of research software.
 
-We are planning to organize a meetup of Research Software Engineers in 2018.
 Signup to our mailing list to stay informed about any activities!
 

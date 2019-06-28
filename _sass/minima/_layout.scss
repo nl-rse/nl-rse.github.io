@@ -216,14 +216,10 @@
   max-width: -webkit-calc(#{$content-width} - #{$rightcol-width} - (#{$spacing-unit} * 4));
   max-width:         calc(#{$content-width} - #{$rightcol-width} - (#{$spacing-unit} * 4));
 
-  padding-top: 20px;
-  padding-right: 20px;
-  padding-bottom: 20px;
-  padding-left: 20px;
 }
 
 .post-header {
-  margin-bottom: $spacing-unit;
+  margin-bottom: 0;
 }
 
 .post-title {
@@ -238,6 +234,11 @@
 
 .post-content {
   margin-bottom: $spacing-unit;
+
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
 
   h2 {
     @include relative-font-size(2);
