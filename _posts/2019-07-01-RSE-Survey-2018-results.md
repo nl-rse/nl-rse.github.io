@@ -20,15 +20,16 @@ across a large number of Universities and Institutes, but the majority works at 
 
 ![At what type of organisation do you work?](/img/survey2018/organisation.png)
 
-When working in an academic environment it is of course very important for you carreer that you can show your contributions to 
+When working in an academic environment it is essential for your carreer that you can show the impact of your work and your contributions to 
 science through publications. In 2017, the survey contained the question "Were you acknowledged in the paper?" to which respondents
 could answer yes or no. Then, about 75% of RSEs answered that they were acknowledged in scientific publications about research
-in which their software was a crucial factor. In 2018, the survey included more options, so we can look at the more detailed answers.
+to which their software was crucial. Because acknowledgement can come in many different forms, the 2018 survey included for more specific answers.
+So now we can have a look at exactly how RSEs are acknowledged for their work in scientific publications.
 
 ![Acknowledgement of RSE work in scientific publications](/img/survey2018/paper_ack.png)
 
 As we can see, the number of RSEs that are acknowledged as main or co-author does not add up to 75%, as some RSEs are only 
-acknowledged in the maintext or acknowledgements. Still about 19.2% of RSEs answered that their work was not at all acknowledged, 
+acknowledged in the maintext or acknowledgements. Still, about 19.2% of RSEs answered that their work was not at all acknowledged, 
 which is very bad and can be damaging for their carreer.
 
 ## Technical
