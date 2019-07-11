@@ -20,6 +20,16 @@ across a large number of Universities and Institutes, but the majority works at 
 
 ![At what type of organisation do you work?](/img/survey2018/organisation.png)
 
+In the 2017 RSE Survey, we noticed that about 64% of RSEs have a permanent position and roughly 34% has a fixed-term position, with the last 2% having
+a different nature of employment. In the 2018 survey, more detailed answering options were available and as such we can look at the nature of employment
+of RSEs in the Netherlands in more detail.
+
+![What is the nature of your employment?](/img/survey2018/type_contract.png)
+
+We can still see that over 58% of respondents have some form of permanent position, where as about 36% has some form of fixed-term position, and 3.6 
+per cent of RSEs are self employed. The results are slightly different from 2017, but we cannot say yet if this is a trend over time or due to fact 
+that each survey is a different sample from the population of RSEs in the Netherlands.
+
 When working in an academic environment it is essential for your carreer that you can show the impact of your work and your contributions to 
 science through publications. In 2017, the survey contained the question "Were you acknowledged in the paper?" to which respondents
 could answer yes or no. Then, about 75% of RSEs answered that they were acknowledged in scientific publications about research
