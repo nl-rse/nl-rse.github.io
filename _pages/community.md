@@ -8,48 +8,11 @@ NL-RSE was formed in April 2017 after the example of the RSE communities in the 
 The initiative was taken by the [Netherlands eScience Center](http://www.esciencecenter.nl)
 and [ePLAN](https://escience-platform.nl/) to bring together the RSE community in the Netherlands.
 
+The community is growing quickly! RSEs working in institutes across the country have already joined NL-RSE:
+
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1aUxqqQcyzor_syAkXlB7Yyw8F2eKx6U3" width="100%" height="480"></iframe>
 
-The community is growing quickly! RSEs from the following institutes have already joined NL-RSE:
-
-- AMOLF
-- Amsterdam University of Applied Sciences
-- ASML
-- Astron
-- BaseClear
-- Data Archiving and Networked Services (DANS)
-- Delft University of Technology
-- Dell
-- Dutch National Institute for Public Health and the Environment (RIVM)
-- Dutch Techcentre for Life Sciences (DTL)
-- Erasmus MC
-- Erasmus University Rotterdam
-- Huygens ING
-- Leiden Observatory
-- Leiden University Library
-- Leiden University Medical Center
-- Maastricht University
-- Marin
-- Meertens Institute
-- National Library of the Netherlands (KB)
-- Netherlands eScience Center
-- Netherlands Institute of Ecology
-- Radboud University Medical Center
-- Radboud University Nijmegen
-- Royal Netherlands Meteorological Institute
-- Science [&] Technology Corporation
-- Software for Chemistry & Materials B.V. (SCM)
-- SRON Netherlands Institute for Space Research
-- SURFsara
-- UMC Utrecht
-- University of Amsterdam
-- University of Groningen
-- University of Twente
-- Utrecht University
-- VU University Amsterdam
-- Wageningen University & Research
-
-Your institute in the list? Join NL-RSE and email info@nl-rse.org.
+Would you like to add your institute to the map? Join NL-RSE and email info@nl-rse.org.
 
 ### NL-RSE Core Team
 
@@ -65,7 +28,4 @@ Ben van Werkhoven, Netherlands eScience Center
 Carlos Martinez, Netherlands eScience Center
 
 If you would also like to get involved actively within NL-RSE, please send an email to info@nl-rse.org.
-
-
-
 
