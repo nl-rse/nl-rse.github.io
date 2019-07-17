@@ -8,6 +8,8 @@ NL-RSE was formed in April 2017 after the example of the RSE communities in the 
 The initiative was taken by the [Netherlands eScience Center](http://www.esciencecenter.nl)
 and [ePLAN](https://escience-platform.nl/) to bring together the RSE community in the Netherlands.
 
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1aUxqqQcyzor_syAkXlB7Yyw8F2eKx6U3" width="100%" height="480"></iframe>
+
 The community is growing quickly! RSEs from the following institutes have already joined NL-RSE:
 
 - AMOLF
