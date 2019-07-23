@@ -26,8 +26,7 @@ of RSEs in the Netherlands in more detail.
 
 ![What is the nature of your employment?](/img/survey2018/type_contract.png)
 
-We can still see that over 58% of respondents have some form of permanent position, where as about 36% has some form of fixed-term position, and 3.6 
-per cent of RSEs are self employed. The results are slightly different from 2017, but we cannot say yet if this is a trend over time or due to fact 
+We can still see that over 58% of respondents have some form of permanent position, where as about 36% has some form of fixed-term position, and 3.6% of RSEs are self employed. The results are slightly different from 2017, but we cannot say yet if this is a trend over time or due to fact 
 that each survey is a different sample from the population of RSEs in the Netherlands.
 
 When working in an academic environment it is essential for your carreer that you can show the impact of your work and your contributions to 
@@ -62,7 +61,7 @@ new release of your software on GitHub.
 
 Of course, the choice of programming language is something that all software developers can have lunch-debates about forever. And
 as with all things the 'best' language is depends on what you are trying do. However, among RSEs we do have a clear winner, as it
-seems that Python is the most selected programming language by RSEs participating in the survey. Note that respondents
+seems that Python is the prevalent programming language according to RSEs participating in the survey. Note that respondents
 could select multiple languages as part of their answer.
 
 ![The OS RSEs are using](/img/survey2018/OS.png)
