@@ -25,7 +25,9 @@ header_pages:
 markdown: kramdown
 theme: minima
 
-# Add _pages directory as a collection
+# Collections
 collections:
   pages:
+    output: true
+  events:
     output: true
