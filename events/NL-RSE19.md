@@ -22,6 +22,10 @@ NL-RSE is organizing the NL-RSE19 conference on November 20 at the Johan Cruijff
 The conference will feature a range of talks, workshops, tutorials, and discussion sessions on research software, new technologies, and related topics. 
 There will also be ample of time for discussion and networking. The full program will be announced soon.
 
+## Registration
+Please [click here](https://21pryvp.momice.events/) for the registration pages. 
+The registration fee for NL-RSE19 will be EUR 25. Requests for a waiver of this fee are possible, please contact info@nl-rse.org.
+
 ## Call for Contributions
 The call for contributions is open until September 20! We hope to provide an inspiring program, and welcome talks, posters, and workshops on both technical 
 and other topics related to Research Software Engineers. We very much welcome first time presenters. [Read more](https://nl-rse.org/2019/07/09/NL-RSE-2019.html).
