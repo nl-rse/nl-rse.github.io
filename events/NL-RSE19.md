@@ -1,10 +1,10 @@
 ---
 layout: event
 image: '/img/conference-banner-flat.jpg'
-title: "NL-RSE 2019"
+title: "NL-RSE19"
 ---
 
-NL-RSE is organizing the NL-RSE 2019 conference on November 20 at the Johan Cruijff ArenA, Amsterdam.
+NL-RSE is organizing the NL-RSE19 conference on November 20 at the Johan Cruijff ArenA, Amsterdam.
 
 **When: 20 November 2019**
 
@@ -20,7 +20,7 @@ NL-RSE is organizing the NL-RSE 2019 conference on November 20 at the Johan Crui
 
 ## What to expect?
 The conference will feature a range of talks, workshops, tutorials, and discussion sessions on research software, new technologies, and related topics. 
-There will also be ample of time for discussion and networking.
+There will also be ample of time for discussion and networking. The full program will be announced soon.
 
 ## Call for Contributions
 The call for contributions is open until September 20! We hope to provide an inspiring program, and welcome talks, posters, and workshops on both technical 
@@ -30,7 +30,7 @@ and other topics related to Research Software Engineers. We very much welcome fi
 If you have any questions, please contact us at conference@nl-rse.org
 
 ## eScience Symposium
-NL-RSE 2019 is co-located with the [National eScience Symposium 2019](https://www.esciencesymposium2019.nl/) taking place the following day, and we greatly 
+NL-RSE19 is co-located with the [National eScience Symposium 2019](https://www.esciencesymposium2019.nl/) taking place the following day, and we greatly 
 appreciate the [Netherlands eScience Center](https://www.esciencecenter.nl/) for sponsoring the venue.
 
 
