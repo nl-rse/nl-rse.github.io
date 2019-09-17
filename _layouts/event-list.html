@@ -13,7 +13,8 @@ layout: default
   <div style="height: 20px"></div>
 
   <ul class="post-list">
-    {% for post in site.events limit:10 %}
+    {% assign events = site.events | reverse %}
+    {% for post in events limit:10 %}
       <li>
 
         <div class="blog-post">
