@@ -2,7 +2,7 @@ title: NL-RSE
 author: nl-rse
 email: info@nl-rse.org
 description: > # this means to ignore newlines until "baseurl:"
-  The community of Research Software Engineers 
+  The community of Research Software Engineers
   from Dutch universities, knowledge institutes, companies and
   other relevant organizations for sharing knowledge, organizing
   meetings and raising awareness for the scientific recognition of research software.
@@ -20,6 +20,7 @@ header_pages:
  - _pages/community.md
  - _pages/join.md
  - _pages/communication.md
+ - _pages/events.md
 
 # Build settings
 markdown: kramdown
