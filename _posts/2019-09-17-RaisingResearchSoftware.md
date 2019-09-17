@@ -13,7 +13,7 @@ In March 2019, a group of active members of the research software community in t
 
 Following from that discussion, the group produced the position paper [“Raising the Profile of Research Software”](https://doi.org/10.5281/zenodo.3378571). The aim of the paper is to provide funding agencies and research institutions with concrete recommendations for raising the profile of research software.
 
-And now we would like to bring more attention to this **community** effort. We are very interested in hearing your feedback. Please share your comments and suggestions [here](https://docs.google.com/document/d/16ABv4u6HADzkQHSiCQC1cPLVmA3EWWvr0B-DeZt1DGE/edit?usp=sharing) -- we will collect more opinions during the [UK-RSE](UK-RSE) and [NL-RSE](https://nl-rse.org/events/NL-RSE19.html) conferences to strengthen and improve these recommendations.
+And now we would like to bring more attention to this **community** effort. We are very interested in hearing your feedback. Please share your comments and suggestions [here](https://docs.google.com/document/d/16ABv4u6HADzkQHSiCQC1cPLVmA3EWWvr0B-DeZt1DGE/edit?usp=sharing) -- we will collect more opinions during the [UK-RSE](https://rse.ac.uk/conf2019/) and [NL-RSE](https://nl-rse.org/events/NL-RSE19.html) conferences to strengthen and improve these recommendations.
 
 
 ## What is the paper about?
