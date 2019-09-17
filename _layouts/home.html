@@ -4,13 +4,51 @@ layout: default
 
 <div class="home">
 
-  <!---
-  <h1 class="page-heading">Posts</h1>
-    --->
-
   {{ content }}
 
   <div style="height: 20px"></div>
+
+
+  <h2 class="page-heading">Upcoming events</h2>
+
+
+{% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
+
+
+{% for event in site.events %}
+
+  {% capture date %}{{event.date | date: '%s' | plus: 0 }}{% endcapture %}
+  {% if date > now %}
+    <!-- event content here -->
+
+    <a href="{{ event.url | relative_url }}">
+    <div style="background: url({{ event.background | prepend: site.baseurl | replace: '//', '/' }}) no-repeat center center; background-size: cover; height: 200px">
+
+        {% assign date_format = "%B %e %Y" %}
+
+        <div style="height: 150px">
+        </div>
+
+        <div style="background-color: #ffffff; opacity: 0.6; height: 50px">
+        <p style="margin: 5px">
+          <a class="post-link" href="{{ event.url | relative_url }}">{{ event.title | escape }}  {{ event.date | date: date_format }}</a>
+        <p>
+        </div>
+
+    </div>
+    </a>
+
+  {% endif %}
+
+{% endfor %}
+
+
+  <a href="{{ '/events' | prepend: site.baseurl }}">All events</a>
+
+
+  <div style="height: 20px"></div>
+
+  <h2 class="page-heading">News</h2>
 
   <ul class="post-list">
     {% for post in site.posts limit:10 %}

@@ -1,7 +1,9 @@
 ---
 layout: event
 image: '/img/conference-banner-flat.jpg'
+background: '/img/conference-banner-bg.jpg'
 title: "NL-RSE19"
+date: 2019-11-20
 ---
 
 NL-RSE is organizing the NL-RSE19 conference on November 20 at the Johan Cruijff ArenA, Amsterdam.
