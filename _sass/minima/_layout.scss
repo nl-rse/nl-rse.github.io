@@ -202,6 +202,13 @@
   @include relative-font-size(1.5);
 }
 
+.event-link {
+  display: block;
+  font-weight: 800;
+  color: $grey-color-dark;
+  @include relative-font-size(1.5);
+}
+
 
 
 /**
@@ -213,8 +220,8 @@
   moz-box-shadow: 0px 0px 7px 0px rgba(194,194,194,1);
   box-shadow: 0px 0px 7px 0px rgba(194,194,194,1);
 
-  max-width: -webkit-calc(#{$content-width} - #{$rightcol-width} - (#{$spacing-unit} * 4));
-  max-width:         calc(#{$content-width} - #{$rightcol-width} - (#{$spacing-unit} * 4));
+  max-width: -webkit-calc(#{$content-width} - #{$rightcol-width} - (#{$spacing-unit} * 2));
+  max-width:         calc(#{$content-width} - #{$rightcol-width} - (#{$spacing-unit} * 2));
 
 }
 
