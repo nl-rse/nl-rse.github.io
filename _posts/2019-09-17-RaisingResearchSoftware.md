@@ -4,6 +4,7 @@ image: '/img/Black_hole_-_Messier_87_crop_max_res.jpg'
 title: "Request for comments -- Raising the Profile of Research Software"
 ---
 *Image credit: EHT Collaboration* 
+
 *This blog post is work in progress*
 
 In March 2019, a group of active members of the research software community in the Netherlands had a meeting with NWO (The Netherlands Organisation for Scientific Research)  to discuss the importance of research software in contemporary research and its relationship to research data, open science, and reproducibility in research (please see [Making Research Software a First-Class Citizen in Research](https://doi.org/10.5281/zenodo.2647436)).
