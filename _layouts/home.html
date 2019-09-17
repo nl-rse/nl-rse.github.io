@@ -9,11 +9,10 @@ layout: default
   <div style="height: 20px"></div>
 
 
-  <h2 class="page-heading">Upcoming events</h2>
+  <h1 class="page-heading">Upcoming events</h1>
 
 
 {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
-
 
 {% for event in site.events %}
 
@@ -29,26 +28,27 @@ layout: default
         <div style="height: 150px">
         </div>
 
-        <div style="background-color: #ffffff; opacity: 0.6; height: 50px">
-        <p style="margin: 5px">
-          <a class="post-link" href="{{ event.url | relative_url }}">{{ event.title | escape }}  {{ event.date | date: date_format }}</a>
+        <div style="background-color: #ffffff; opacity: 0.7; height: 50px">
+        <p style="margin-top: 5px; margin-left: 10px">
+          <a class="event-link" href="{{ event.url | relative_url }}">{{ event.title | escape }}  {{ event.date | date: date_format }}</a>
         <p>
         </div>
-
     </div>
     </a>
+    <div style="height: 10px"></div>
+
 
   {% endif %}
 
 {% endfor %}
 
 
-  <a href="{{ '/events' | prepend: site.baseurl }}">All events</a>
+  <a href="{{ '/pages/events.html' | prepend: site.baseurl }}">See all events</a>
 
 
   <div style="height: 20px"></div>
 
-  <h2 class="page-heading">News</h2>
+  <h1 class="page-heading">News</h1>
 
   <ul class="post-list">
     {% for post in site.posts limit:10 %}
