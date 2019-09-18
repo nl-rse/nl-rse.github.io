@@ -1,6 +1,6 @@
 ---
 layout: event
-image: '/img/conference-banner-flat.jpg'
+image: '/img/conference-banner-flatv2.jpg'
 background: '/img/conference-banner-bg.jpg'
 title: "NL-RSE19"
 date: 2019-11-20
