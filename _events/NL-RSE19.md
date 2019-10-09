@@ -16,16 +16,32 @@ NL-RSE is organizing the NL-RSE19 conference on November 20 at the Johan Cruijff
 **Registration: [Click here](https://21pryvp.momice.events/)**
 
 
-
 ## Who should attend?
 - Researchers who develop software for research purposes
 - Software developers working in a research context
 - People from any organisation providing services to facilitate research software: tools makers, infrastructure providers, computing services, data centers, etc.
 - Anyone with a stake in research software (funders, publishers, decision makers, etc).
 
-## What to expect?
-The conference will feature a range of talks, workshops, tutorials, and discussion sessions on research software, new technologies, and related topics.
-There will also be ample of time for discussion and networking. The full program will be announced soon.
+## Program
+
+| Time | Room 1 | Room 2 |
+| --  | ---- | ---- |
+| 9:00 - 9:45   | Welcome with coffee   |
+| 9:45 - 10:00  | NL-RSE19 Opening      |
+| 10:00 - 10:30 | Keynote talk by Tania Allard |
+| 10:30 - 11:10 | DH RSE - Albert Meroño-Peñuela | Functional package management using Guix - I, Arun |
+| | Strength in Numbers: Growing RSE Capacity at Imperial College London - Mark Woodbridge | Challenges in radio astronomy - Yan Grange |
+| 11:10 - 11:30 | Coffee break
+| 11:30 - 12:30 | Collecting historical tweets - Martine de Vos | Workflow automation using Docker Swarm and GitLab CI at FIBEr - Johan Philips |
+| | Creating a community of contributors for scientific open-source projects: The preCICE case - Gerasimos Chourdakis | Entangled - Johan Hidding |
+| | WoSSS report - Shoaib Sufi | Xenon - Jason Maassen |
+| 12:30 - 13:30 | Lunch break |
+| 13:30 - 14:30 | Raising the Profile of Research Software - Nicolas Renaud | Introduction to Research Cloud - Martin Brandt |
+| 14:30 - 15:00 | Coffee break |
+| 15:00 - 16:00 | Workshop title tbd - Tania | Five recommendations for FAIR software - Jurriaan Spaaks |
+| 16:00 - 17:30 | Drinks and Posters |
+
+
 
 ## Registration
 Please [click here](https://21pryvp.momice.events/) for the registration pages.
