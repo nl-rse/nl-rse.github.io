@@ -15,6 +15,17 @@ NL-RSE is organizing the NL-RSE19 conference on November 20 at the Johan Cruijff
 
 **Registration: [Click here](https://21pryvp.momice.events/)**
 
+At NL-RSE19, we will bring together the Research Software Engineers (RSE) community to talk about, building the community, best practices for creating research software, and other RSE related
+topics. The conference will take place on the 20th of November, at the Johan Cruijff ArenA, Amsterdam.
+
+NL-RSE19 is co-located with the [National eScience Symposium 2019](https://www.esciencesymposium2019.nl/) taking place the following day, and we greatly appreciate the Netherlands eScience Center 
+for sponsoring the venue.
+
+The increasing use of data and digital technology in academia has gone hand in hand with a strong growth in people who write and contribute to research software. Positions like data steward, 
+information manager, research data officer, research software engineer, research supporter and other titles are increasingly recognized as intrinsic positions in the academic system.
+
+Following the great initiatives in the UK and Germany, we plan to bring together the community of people writing and contributing to research software from Dutch universities, knowledge 
+institutes, companies and other organizations to share knowledge, to organize meetings, and raise awareness for the scientific recognition of research software.
 
 ## Who should attend?
 - Researchers who develop software for research purposes
@@ -25,7 +36,7 @@ NL-RSE is organizing the NL-RSE19 conference on November 20 at the Johan Cruijff
 ## Program
 
 | Time | Room 1 | Room 2 |
-| --  | ---- | ---- |
+| -- | ---- | ---- |
 | 9:00 - 9:45   | Welcome with coffee   |
 | 9:45 - 10:00  | NL-RSE19 Opening      |
 | 10:00 - 10:30 | Keynote talk by Tania Allard |
