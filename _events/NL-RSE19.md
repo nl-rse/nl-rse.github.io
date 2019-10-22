@@ -18,13 +18,13 @@ NL-RSE is organizing the NL-RSE19 conference on November 20 at the Johan Cruijff
 At NL-RSE19, we will bring together the Research Software Engineers (RSE) community to talk about, building the community, best practices for creating research software, and other RSE related
 topics. The conference will take place on the 20th of November, at the Johan Cruijff ArenA, Amsterdam.
 
-NL-RSE19 is co-located with the [National eScience Symposium 2019](https://www.esciencesymposium2019.nl/) taking place the following day, and we greatly appreciate the Netherlands eScience Center 
+NL-RSE19 is co-located with the [National eScience Symposium 2019](https://www.esciencesymposium2019.nl/) taking place the following day, and we greatly appreciate the Netherlands eScience Center
 for sponsoring the venue.
 
-The increasing use of data and digital technology in academia has gone hand in hand with a strong growth in people who write and contribute to research software. Positions like data steward, 
+The increasing use of data and digital technology in academia has gone hand in hand with a strong growth in people who write and contribute to research software. Positions like data steward,
 information manager, research data officer, research software engineer, research supporter and other titles are increasingly recognized as intrinsic positions in the academic system.
 
-Following the great initiatives in the UK and Germany, we plan to bring together the community of people writing and contributing to research software from Dutch universities, knowledge 
+Following the great initiatives in the UK and Germany, we plan to bring together the community of people writing and contributing to research software from Dutch universities, knowledge
 institutes, companies and other organizations to share knowledge, to organize meetings, and raise awareness for the scientific recognition of research software.
 
 ## Who should attend?
@@ -40,16 +40,16 @@ institutes, companies and other organizations to share knowledge, to organize me
 | 9:00 - 9:45   | Welcome with coffee   |
 | 9:45 - 10:00  | NL-RSE19 Opening      |
 | 10:00 - 10:30 | Keynote talk by Tania Allard |
-| 10:30 - 11:10 | For We Are Many: The DHTech White Paper on Research Software Engineering for Digital Humanities - Albert Meroño-Peñuela | Functional package management using Guix - I, Arun |
-| | Strength in Numbers: Growing RSE Capacity at Imperial College London - Mark Woodbridge | The ASTRON Science Data Centre - Yan Grange |
+| 10:30 - 11:10 | **For We Are Many: The DHTech White Paper on Research Software Engineering for Digital Humanities** - Albert Meroño-Peñuela | **Functional package management using Guix** - I, Arun |
+| | **Strength in Numbers: Growing RSE Capacity at Imperial College London** - Mark Woodbridge | **The ASTRON Science Data Centre** - Yan Grange |
 | 11:10 - 11:30 | Coffee break
-| 11:30 - 12:30 | Collecting historical tweets - Martine de Vos | Workflow automation using Docker Swarm and GitLab CI at FIBEr - Johan Philips |
-| | Creating a community of contributors for scientific open-source projects: The preCICE case - Gerasimos Chourdakis | Entangled - Johan Hidding |
-| | Highlights from the Workshop on Sustainable Software Sustainability - Shoaib Sufi | Xenon - Jason Maassen |
+| 11:30 - 12:30 | **Collecting historical tweets** - Martine de Vos | **Workflow automation using Docker Swarm and GitLab CI at Flanders Institute for Biomechanical Experimentation** - Johan Philips |
+| | **Creating a community of contributors for scientific open-source projects: The preCICE case** - Gerasimos Chourdakis | **Literate programming, why it matters and how to make it easy** - Johan Hidding |
+| | **Highlights from the Workshop on Sustainable Software Sustainability** - Shoaib Sufi | **Xenon introduction & highly portable parallel [genomics] workflows based on Snakemake/Xenon** - Jason Maassen |
 | 12:30 - 13:30 | Lunch break |
-| 13:30 - 14:30 | Raising the Profile of Research Software - Nicolas Renaud | Introduction to Research Cloud - Martin Brandt |
+| 13:30 - 14:30 | **Raising the Profile of Research Software** - Nicolas Renaud | **Introduction to Research Cloud** - Martin Brandt |
 | 14:30 - 15:00 | Coffee break |
-| 15:00 - 16:00 | Be an RSE Superhero with VS Code and Azure Pipelines - Tania Allard | Five recommendations for FAIR software - Jurriaan Spaaks |
+| 15:00 - 16:00 | **Be an RSE Superhero with VS Code and Azure Pipelines** - Tania Allard | **Five recommendations for FAIR software** - Jurriaan Spaaks |
 | 16:00 - 17:30 | Drinks and Posters |
 
 
