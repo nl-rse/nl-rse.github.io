@@ -41,7 +41,7 @@ institutes, companies and other organizations to share knowledge, to organize me
 | 9:45 - 10:00  | NL-RSE19 Opening      |
 | 10:00 - 10:30 | Keynote talk by Tania Allard |
 | 10:30 - 11:10 | **For We Are Many: The DHTech White Paper on Research Software Engineering for Digital Humanities** - Albert Meroño-Peñuela | **Functional package management using Guix** - I, Arun |
-| | **Strength in Numbers: Growing RSE Capacity at Imperial College London** - Mark Woodbridge | **The ASTRON Science Data Centre** - Yan Grange |
+| | **Strength in Numbers: Growing RSE Capacity at Imperial College London** - Mark Woodbridge and Jeremy Cohen | **The ASTRON Science Data Centre** - Yan Grange |
 | 11:10 - 11:30 | Coffee break
 | 11:30 - 12:30 | **Collecting historical tweets** - Martine de Vos | **Workflow automation using Docker Swarm and GitLab CI at Flanders Institute for Biomechanical Experimentation** - Johan Philips |
 | | **Creating a community of contributors for scientific open-source projects: The preCICE case** - Gerasimos Chourdakis | **Literate programming, why it matters and how to make it easy** - Johan Hidding |
