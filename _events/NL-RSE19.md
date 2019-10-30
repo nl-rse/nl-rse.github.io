@@ -39,7 +39,7 @@ institutes, companies and other organizations to share knowledge, to organize me
 | -- | ---- | ---- |
 | 9:00 - 9:45   | Welcome with coffee   |
 | 9:45 - 10:00  | NL-RSE19 Opening      |
-| 10:00 - 10:30 | *Keynote talk*: **IMPLICIT NONE: intentional inclusion and diversity in the RSE movent** -- Tania Allard |
+| 10:00 - 10:30 | *Keynote talk*: **IMPLICIT NONE: intentional inclusion and diversity in the RSE movement** -- Tania Allard |
 | 10:30 - 11:10 | **For We Are Many: The DHTech White Paper on Research Software Engineering for Digital Humanities** - Albert Meroño-Peñuela | **Functional package management using Guix** - I, Arun |
 | | **Strength in Numbers: Growing RSE Capacity at Imperial College London** - Mark Woodbridge and Jeremy Cohen | **The ASTRON Science Data Centre** - Yan Grange |
 | 11:10 - 11:30 | Coffee break
