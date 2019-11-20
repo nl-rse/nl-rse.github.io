@@ -35,22 +35,22 @@ institutes, companies and other organizations to share knowledge, to organize me
 
 ## Program
 
-| Time | Belgrado 73 | Madrid 69 |
+| Time | Madrid 69 | Belgrado 73 |
 | -- | ---- | ---- |
-| 9:00 - 9:45   | Welcome with coffee   |
-| 9:45 - 10:00  | NL-RSE19 Opening      |
-| 10:00 - 10:30 | *Keynote talk*: **IMPLICIT NONE: intentional inclusion and diversity in the RSE movement** -- Tania Allard |
+| 9:00 - 9:45   | - | Welcome with coffee   |
+| 9:45 - 10:00  | - | NL-RSE19 Opening      |
+| 10:00 - 10:30 | - | *Keynote talk*: **IMPLICIT NONE: intentional inclusion and diversity in the RSE movement** -- Tania Allard |
 | 10:30 - 11:10 | **For We Are Many: The DHTech White Paper on Research Software Engineering for Digital Humanities** - Albert Meroño-Peñuela | **Functional package management using Guix** - I, Arun |
 | | **Strength in Numbers: Growing RSE Capacity at Imperial College London** - Mark Woodbridge and Jeremy Cohen | **The ASTRON Science Data Centre** - Yan Grange |
-| 11:10 - 11:30 | Coffee break
+| 11:10 - 11:30 | Coffee break **(Plein van 100)**
 | 11:30 - 12:30 | **Collecting historical tweets** - Martine de Vos | **Workflow automation using Docker Swarm and GitLab CI at Flanders Institute for Biomechanical Experimentation** - Johan Philips |
 | | **Creating a community of contributors for scientific open-source projects: The preCICE case** - Gerasimos Chourdakis | **Literate programming, why it matters and how to make it easy** - Johan Hidding |
 | | **Highlights from the Workshop on Sustainable Software Sustainability** - Shoaib Sufi | **Xenon introduction & highly portable parallel [genomics] workflows based on Snakemake/Xenon** - Jason Maassen |
-| 12:30 - 13:30 | Lunch break |
+| 12:30 - 13:30 | Lunch break **(Tokio 95)** |
 | 13:30 - 14:30 | **Introduction to Research Cloud** - Martin Brandt | **Raising the Profile of Research Software: community feedback session** - Nicolas Renaud |
-| 14:30 - 15:00 | Coffee break |
+| 14:30 - 15:00 | Coffee break **(Tokio 95)** |
 | 15:00 - 16:00 | **CI/CD for reproducible research** - Tania Allard | **Five recommendations for FAIR software** - Jurriaan Spaaks |
-| 16:00 - 17:30 | Drinks and Posters |
+| 16:00 - 17:30 | Drinks and Posters **(Tokio 95)** |
 
 
 
