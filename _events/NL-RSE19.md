@@ -47,9 +47,9 @@ institutes, companies and other organizations to share knowledge, to organize me
 | | **Creating a community of contributors for scientific open-source projects: The preCICE case** - Gerasimos Chourdakis | **Literate programming, why it matters and how to make it easy** - Johan Hidding |
 | | **Highlights from the Workshop on Sustainable Software Sustainability** - Shoaib Sufi | **Xenon introduction & highly portable parallel [genomics] workflows based on Snakemake/Xenon** - Jason Maassen |
 | 12:30 - 13:30 | Lunch break **(Tokio 95)** |
-| 13:30 - 14:30 | **Introduction to Research Cloud** - Martin Brandt | **Raising the Profile of Research Software: community feedback session** - Nicolas Renaud |
+| 13:30 - 14:30 | **Raising the Profile of Research Software: community feedback session** - Nicolas Renaud |  **Introduction to Research Cloud** - Martin Brandt |
 | 14:30 - 15:00 | Coffee break **(Tokio 95)** |
-| 15:00 - 16:00 | **CI/CD for reproducible research** - Tania Allard | **Five recommendations for FAIR software** - Jurriaan Spaaks |
+| 15:00 - 16:00 | **Five recommendations for FAIR software** - Jurriaan Spaaks | **CI/CD for reproducible research** - Tania Allard |
 | 16:00 - 17:30 | Drinks and Posters **(Tokio 95)** |
 
 
