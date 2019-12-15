@@ -13,7 +13,7 @@ NL-RSE is organizing the NL-RSE19 conference on November 20 at the Johan Cruijff
 
 **Where: [Johan Cruijff ArenA](https://www.johancruijffarena.nl/) in Amsterdam**
 
-**Registration: [Click here](https://21pryvp.momice.events/)**
+**Registration: Closed)**
 
 At NL-RSE19, we will bring together the Research Software Engineers (RSE) community to talk about, building the community, best practices for creating research software, and other RSE related
 topics. The conference will take place on the 20th of November, at the Johan Cruijff ArenA, Amsterdam.
@@ -39,7 +39,7 @@ institutes, companies and other organizations to share knowledge, to organize me
 | -- | ---- | ---- |
 | 9:00 - 9:45   | - | Welcome with coffee   |
 | 9:45 - 10:00  | - | NL-RSE19 Opening      |
-| 10:00 - 10:30 | - | *Keynote talk*: **IMPLICIT NONE: intentional inclusion and diversity in the RSE movement** -- Tania Allard |
+| 10:00 - 10:30 | - | *Keynote talk*: **[IMPLICIT NONE: intentional inclusion and diversity in the RSE movement](resources/20191120/nlrse19-allard.pdf)** -- Tania Allard |
 | 10:30 - 11:10 | **For We Are Many: The DHTech White Paper on Research Software Engineering for Digital Humanities** - Albert Meroño-Peñuela | **Functional package management using Guix** - I, Arun |
 | | **Strength in Numbers: Growing RSE Capacity at Imperial College London** - Mark Woodbridge and Jeremy Cohen | **The ASTRON Science Data Centre** - Yan Grange |
 | 11:10 - 11:30 | Coffee break **(Plein van 100)**
