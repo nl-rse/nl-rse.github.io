@@ -35,6 +35,8 @@ institutes, companies and other organizations to share knowledge, to organize me
 
 ## Program
 
+(links to slides)
+
 | Time | Madrid 69 | Belgrado 73 |
 | -- | ---- | ---- |
 | 9:00 - 9:45   | - | Welcome with coffee   |
