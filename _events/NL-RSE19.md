@@ -13,7 +13,7 @@ NL-RSE is organizing the NL-RSE19 conference on November 20 at the Johan Cruijff
 
 **Where: [Johan Cruijff ArenA](https://www.johancruijffarena.nl/) in Amsterdam**
 
-**Registration: [Click here](https://21pryvp.momice.events/)**
+**Registration: Closed**
 
 At NL-RSE19, we will bring together the Research Software Engineers (RSE) community to talk about, building the community, best practices for creating research software, and other RSE related
 topics. The conference will take place on the 20th of November, at the Johan Cruijff ArenA, Amsterdam.
@@ -35,21 +35,23 @@ institutes, companies and other organizations to share knowledge, to organize me
 
 ## Program
 
+(links to slides)
+
 | Time | Madrid 69 | Belgrado 73 |
 | -- | ---- | ---- |
 | 9:00 - 9:45   | - | Welcome with coffee   |
-| 9:45 - 10:00  | - | NL-RSE19 Opening      |
-| 10:00 - 10:30 | - | *Keynote talk*: **IMPLICIT NONE: intentional inclusion and diversity in the RSE movement** -- Tania Allard |
-| 10:30 - 11:10 | **For We Are Many: The DHTech White Paper on Research Software Engineering for Digital Humanities** - Albert Meroño-Peñuela | **Functional package management using Guix** - I, Arun |
-| | **Strength in Numbers: Growing RSE Capacity at Imperial College London** - Mark Woodbridge and Jeremy Cohen | **The ASTRON Science Data Centre** - Yan Grange |
+| 9:45 - 10:00  | - | [NL-RSE19 Opening](/resources/20191120/nlrse19-drost.pdf) |
+| 10:00 - 10:30 | - | *Keynote talk*: **[IMPLICIT NONE: intentional inclusion and diversity in the RSE movement](/resources/20191120/nlrse19-allard.pdf)** -- Tania Allard |
+| 10:30 - 11:10 | **[For We Are Many: The DHTech White Paper on Research Software Engineering for Digital Humanities](/resources/20191120/nlrse19-merono.pdf)** - Albert Meroño-Peñuela | **[Functional package management using Guix](/resources/20191120/nlrse19-aruni.pdf)** -- I, Arun |
+| | **[Strength in Numbers: Growing RSE Capacity at Imperial College London](/resources/20191120/nlrse19-woodbridge-cohen.pdf)** - Mark Woodbridge and Jeremy Cohen | **[The ASTRON Science Data Centre](/resources/20191120/nlrse19-grange.pdf)** -- Yan Grange |
 | 11:10 - 11:30 | Coffee break **(Plein van 100)**
-| 11:30 - 12:30 | **Collecting historical tweets** - Martine de Vos | **Workflow automation using Docker Swarm and GitLab CI at Flanders Institute for Biomechanical Experimentation** - Johan Philips |
-| | **Creating a community of contributors for scientific open-source projects: The preCICE case** - Gerasimos Chourdakis | **Literate programming, why it matters and how to make it easy** - Johan Hidding |
-| | **Highlights from the Workshop on Sustainable Software Sustainability** - Shoaib Sufi | **Xenon introduction & highly portable parallel [genomics] workflows based on Snakemake/Xenon** - Jason Maassen |
+| 11:30 - 12:30 | **Collecting historical tweets** - Martine de Vos | **[Workflow automation using Docker Swarm and GitLab CI at Flanders Institute for Biomechanical Experimentation](/resources/20191120/nlrse19-philips.pdf)** -- Johan Philips |
+| | **[Creating a community of contributors for scientific open-source projects: The preCICE case](/resources/20191120/nlrse19-chourdakis.pdf)** - Gerasimos Chourdakis | **[Literate programming, why it matters and how to make it easy](/resources/20191120/nlrse19-hidding.pdf)** -- Johan Hidding |
+| | **[Highlights from the Workshop on Sustainable Software Sustainability](/resources/20191120/nlrse19-sufi.pdf)** - Shoaib Sufi | **[Xenon introduction & highly portable parallel [genomics] workflows based on Snakemake/Xenon](/resources/20191120/nlrse19-maassen-kuzniar.pdf)** -- Jason Maassen |
 | 12:30 - 13:30 | Lunch break **(Tokio 95)** |
-| 13:30 - 14:30 | **Raising the Profile of Research Software: community feedback session** - Nicolas Renaud |  **Introduction to Research Cloud** - Martin Brandt |
+| 13:30 - 14:30 | **Raising the Profile of Research Software: community feedback session** - Nicolas Renaud |  **Introduction to Research Cloud** -- Martin Brandt |
 | 14:30 - 15:00 | Coffee break **(Tokio 95)** |
-| 15:00 - 16:00 | **Five recommendations for FAIR software** - Jurriaan Spaaks | **CI/CD for reproducible research** - Tania Allard |
+| 15:00 - 16:00 | **Five recommendations for FAIR software** - Jurriaan Spaaks | **CI/CD for reproducible research** -- Tania Allard |
 | 16:00 - 17:30 | Drinks and Posters **(Tokio 95)** |
 
 
