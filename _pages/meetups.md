@@ -15,7 +15,7 @@ direction of Hoog Catharijne.
 
 Topics of the lectures and hands-on workshops range from new developments in programming languages
 and frameworks to practical tips for reserearch software engineering, and more.
-Speakers are usually but not exclusively members of the NL-RSE community (i.e. Dutch programmers). The agenda of the meeting leaves plenty of time for participants to interact with each other.
+Speakers are usually but not exclusively members of the NL-RSE community (i.e. Dutch Research Software Engineers). The agenda of the meeting leaves plenty of time for participants to interact with each other.
 
 NL-RSE meetups are the continuation of DTL SURF Programmers meetings. You can learn more about those and see past agendas on [DTL website](https://www.dtls.nl/community/meetings/programmers-meetings/).
 
