@@ -21,7 +21,7 @@ The NL-RSE core team currently consists of the following members:
 James Meakin, Radboud UMC  
 Susan Branchett, TU Delft  
 Vahid Garousi, Wageningen University & Research  
-Mateusz Kuzak, Dutch Techcentre for Life Sciences  
+Mateusz Kuzak, Netherlands eScience Center
 Maria Cruz, VU University Amsterdam  
 Niels Drost, Netherlands eScience Center  
 Ben van Werkhoven, Netherlands eScience Center  
