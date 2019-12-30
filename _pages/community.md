@@ -14,6 +14,12 @@ The community is growing quickly! RSEs working in institutes across the country 
 
 Would you like to add your institute to the map? Join NL-RSE and email info@nl-rse.org.
 
+### NL-RSE Meetups
+
+The NL-RSE meets on regular basis, every two months on average.
+
+Please find more information on [Meetups page](meetups.html)
+
 ### NL-RSE Core Team
 
 The NL-RSE core team currently consists of the following members:
@@ -21,7 +27,7 @@ The NL-RSE core team currently consists of the following members:
 James Meakin, Radboud UMC  
 Susan Branchett, TU Delft  
 Vahid Garousi, Wageningen University & Research  
-Mateusz Kuzak, Netherlands eScience Center
+Mateusz Kuzak, Netherlands eScience Center  
 Maria Cruz, VU University Amsterdam  
 Niels Drost, Netherlands eScience Center  
 Ben van Werkhoven, Netherlands eScience Center  
