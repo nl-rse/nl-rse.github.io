@@ -6,7 +6,7 @@ title: NL-RSE Meetups
 The NL-RSE meets on regular basis, every two months on average.
 
 Netherlands eScience Center, DTL and SURF frequently organise NL-RSE meetups to encourage
-collaboration and communication between Resarch Software Engineers in the Netherlands.
+collaboration and communication between Research Software Engineers in the Netherlands.
 
 The meetings are organized at the fantastic facilities of
 [SURF in Utrecht](https://www.surf.nl/over-surf/contact/routebeschrijving-surf-surfmarket-en-surfnet/index.html).
@@ -14,7 +14,7 @@ This venue is less than 5 minutes walking distance from the central railway stat
 direction of Hoog Catharijne.
 
 Topics of the lectures and hands-on workshops range from new developments in programming languages
-and frameworks to practical tips for reserearch software engineering, and more.
+and frameworks to practical tips for research software engineering, and more.
 Speakers are usually but not exclusively members of the NL-RSE community (i.e. Dutch Research Software Engineers). The agenda of the meeting leaves plenty of time for participants to interact with each other.
 
 NL-RSE meetups are the continuation of DTL SURF Programmers meetings. You can learn more about those and see past agendas on [DTL website](https://www.dtls.nl/community/meetings/programmers-meetings/).
