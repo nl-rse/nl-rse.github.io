@@ -2,6 +2,7 @@
 layout: page
 title: NL-RSE Meetups
 ---
+![Logo Banner](/img/meetups/logo-banner.jpg)
 
 The NL-RSE meets on regular basis, every two months on average.
 
