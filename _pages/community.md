@@ -22,7 +22,7 @@ Please find more information on [Meetups page](meetups.html)
 
 ### NL-RSE Core Team
 
-The NL-RSE core team currently consists of the following members:
+[The NL-RSE core team](core-team.html) currently consists of the following members:
 
 * Susan Branchett, TU Delft  
 * James Meakin, Radboud UMC  
