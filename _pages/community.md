@@ -22,22 +22,8 @@ Please find more information on [Meetups page](meetups.html)
 
 ### NL-RSE Core Team
 
-[The NL-RSE core team](core-team.html) currently consists of the following members:
+The community is represented and driven by [the NL-RSE Core Team](core-team.html).
 
-* Susan Branchett, TU Delft  
-* James Meakin, Radboud UMC  
-* Mateusz Kuzak, the Netherlands eScience Center
-* Anna-Lena Lamprecht, Utrecht University
-* Albert Meroño Peñuela, VU Amsterdam
-* Thomas Pronk, University of Amsterdam
-* Carlos Martinez, the Netherlands eScience Center
-
-#### Past Core Team Members
-
-* Maria Cruz, VU University Amsterdam
-* Niels Drost, Netherlands eScience Center
-* Vahid Garousi, Wageningen University & Research
-* Ben van Werkhoven, Netherlands eScience Center 
 
 If you would also like to get involved actively within NL-RSE, please send an email to info@nl-rse.org.
 
