@@ -7,7 +7,7 @@ title: NL-RSE Core Team
 ![image](/img/core-team/Susan.jpg)
 
 Susan works in the ICT-Innovation department of the Delft University of Technology, where she looks for ways to help researchers be even more effective through IT.
-Susan has a Ph.D. in computational Physics and is a certified Software Carpentry trainer and Kubernetes Application Developer.
+Susan has a Ph.D. in computational Physics and is a certified the Carpentries instructor and Kubernetes Application Developer.
 Find out more on [TU Delft website](https://www.tudelft.nl/staff/s.e.branchett/) or here [Open Working Blog](https://openworking.wordpress.com/2019/08/29/helping-researchers-do-it/).
 
 ## Mateusz Kuzak
