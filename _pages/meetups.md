@@ -22,12 +22,10 @@ NL-RSE meetups are the continuation of DTL SURF Programmers meetings. You can le
 
 ## Meetups scheduled for 2020
 
-* [2020-03-13](/events/2020-03-13-meetup.html)
-* 2020-06-19
-* 2020-09-18
-* 2020-11-13
+## Past meetups
+* [2020-03-13](/events/2020-03-13-meetup.html) in person event (tentative, will depend on COVID-19 situation)
 
-### Location
+## Location of in person events
 
 SURFmarket, SURFnet, SURF-bureau <br />
 Kantoren Hoog Overborch (Hoog Catharijne) <br />
@@ -35,5 +33,4 @@ Kantoren Hoog Overborch (Hoog Catharijne) <br />
 Moreelsepark 48 <br />
 
 [Google Directions](https://www.google.com/maps/dir//Moreelsepark+48,+3511+EP+Utrecht/@52.0890566,5.1112767,17z/data=!4m17!1m7!3m6!1s0x47c66f5cf0744629:0xd26462bf1e621a9a!2sMoreelsepark+48,+3511+EP+Utrecht!3b1!8m2!3d52.0890566!4d5.1134654!4m8!1m0!1m5!1m1!1s0x47c66f5cf0744629:0xd26462bf1e621a9a!2m2!1d5.1134654!2d52.0890566!3e1)
-
 
