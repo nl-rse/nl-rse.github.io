@@ -14,5 +14,6 @@ universities, knowledge institutes, companies and other organizations to
 share knowledge, to organize meetings, and raise awareness for the
 scientific recognition of research software.
 
-Signup to our mailing list to stay informed about any activities!
-
+[Join our community](https://lists.nl-rse.org/mailman/listinfo/everyone) of
+200+ members from 30+ institutes and stay informed about activities by
+signing up to our mailing list !
