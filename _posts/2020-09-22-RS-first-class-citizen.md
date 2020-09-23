@@ -11,6 +11,8 @@ TL;DR -- Read [our recommendations](https://doi.org/10.5281/zenodo.4015242) to m
 
 <!--break-->
 
+*This blog post is also posted [here](https://openworking.wordpress.com/2020/09/23/how-to-make-research-software-a-first-class-citizen-in-the-netherlands/).*
+
 Antoni van Leeuwenhoek is considered the father of microbiology. His discovery of microbes, using the lenses he made himself, created an entire new field of research. He was at the same time a researcher and a tool maker: his research would have not been possible without the tools he built. Leeuwenhoek was well known for both his discoveries in microbiology as well as the unmatched quality of his lenses.
 
 Four centuries after Leeuwenhoek, research tools have only gained importance. Recently, a new type of tool gained critical importance: research software. The 2020 COVID-19 pandemic has brought up to the public eye how [important research software is](https://www.software.ac.uk/blog/2020-05-07-better-software-better-covid-19-research).
