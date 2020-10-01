@@ -21,7 +21,6 @@ Speakers are usually but not exclusively members of the NL-RSE community (i.e. D
 NL-RSE meetups are the continuation of DTL SURF Programmers meetings. You can learn more about those and see past agendas on [DTL website](https://www.dtls.nl/community/meetings/programmers-meetings/).
 
 ## Meetups scheduled for 2020
-* 9 October, 2020; Online meetup
 * [20 November, 2020](/events/2020-11-20-meetup.html); Online meetup
 * 16 December, 2020; Online meetup
 
