@@ -11,7 +11,7 @@ TL;DR -- Read [our recommendations](https://doi.org/10.5281/zenodo.4015242) to m
 
 <!--break-->
 
-*This blog post is also posted [here](https://openworking.wordpress.com/2020/09/23/how-to-make-research-software-a-first-class-citizen-in-the-netherlands/).*
+*This blog post is also posted [here](https://openworking.wordpress.com/2020/09/23/how-to-make-research-software-a-first-class-citizen-in-the-netherlands/) and [here](: https://dans.knaw.nl/en/current/news/201craising-the-profile-of-research-software201d-2013-a-new-position-paper-contributing-to-open-science).*
 
 Antoni van Leeuwenhoek is considered the father of microbiology. His discovery of microbes, using the lenses he made himself, created an entire new field of research. He was at the same time a researcher and a tool maker: his research would have not been possible without the tools he built. Leeuwenhoek was well known for both his discoveries in microbiology as well as the unmatched quality of his lenses.
 
