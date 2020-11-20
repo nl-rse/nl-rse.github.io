@@ -15,9 +15,13 @@ Take part in the discussion in the #netherlands channel on the [RSE Slack Group]
 
 Send any announcements and job postings to everyone@lists.nl-rse.org for distribution to the entire mailing list (subject to moderation)
 
+### Newsletter
+Do you have an upcoming event, job opening or other news to share with the community? [Add it](https://forms.gle/D19m9eLnXkPNK2Tt5) to the next issue of our newsletter!
+
+
 ### Contact the organisers
 
-Email info@nl-rse.org to get in contact with the NL-RSE committee and conference organisers
+Would you like to share somethind during our next [meetup](/pages/meetups.html)? Email info@nl-rse.org to get in contact with the NL-RSE committee and conference organisers
 
 
 
