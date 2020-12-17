@@ -9,7 +9,7 @@ The NL-RSE meets on regular basis, every two months on average.
 Netherlands eScience Center, DTL and SURF frequently organise NL-RSE meetups to encourage
 collaboration and communication between Research Software Engineers in the Netherlands.
 
-For 2021, meetups will be organised online.
+During the Covid19 pandemic, meetings will be organised online.
 
 Topics of the lectures and hands-on workshops range from new developments in programming languages
 and frameworks to practical tips for research software engineering, and more.
