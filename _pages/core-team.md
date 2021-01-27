@@ -3,18 +3,6 @@ layout: page
 title: NL-RSE Core Team
 ---
 
-## Susan Branchett
-![image](/img/core-team/Susan.jpg)
-
-Susan works in the ICT-Innovation department of the Delft University of Technology, where she looks for ways to help researchers be even more effective through IT.
-Susan has a Ph.D. in computational Physics and is a certified the Carpentries instructor and Kubernetes Application Developer.
-Find out more on [TU Delft website](https://www.tudelft.nl/staff/s.e.branchett/) or here [Open Working Blog](https://openworking.wordpress.com/2019/08/29/helping-researchers-do-it/).
-
-## Mateusz Kuzak
-![image](/img/core-team/mateusz.jpg)
-
-Mateusz is a Community Manager at the Netherlands eScience Center where he coordinates the training program and supports communities around research software and reproducible and open science. Mateusz co-leads Software Development Best Practices Working Group in ELIXIR Europe and is the Carpentries trainer, instructor, mentor and former Executive Council member. Before joining the Center, Mateusz made the whole journey from the wet lab, using microscopy to study cell biophysics, through bioinformatics data analysis, Research Software Engineering to Scientific Community Management. You can follow him on [Twitter](https://twitter.com/matkuzak).
-
 ## Anna-Lena Lamprecht
 ![image](/img/core-team/Anna-Lena.jpg)
 
@@ -44,9 +32,16 @@ Find out more at [Albert's website](https://www.albertmeronyo.org/) and [Twitter
 
 Thomas Pronk develops and consults on technology for psychological research. He is interested in mental chronometry, which is making inferences about the mind based on how fast it responds. This interest involves research software engineering and behavioral data science, with special considerations for the circumstances under which data is collected. His main employer is the University of Amsterdam, Faculty of Social and Behavioural Sciences. On the side, he does community gardening and a Ph.D. in mental chronometry via the internet. Find out more at https://thomaspronk.com
 
+## Ben van Werkhoven
+![image](/img/core-team/ben.jpg)
+
+Ben van Werkhoven holds a PhD in High-Performance Distributed Computing, specifically GPU Computing. He works as an Senior Research Engineer at the Netherlands eScience Center, where he is the leading GPU Computing expert. Ben is also a co-founder of NL-RSE.
+
 # Past Core Team members
 
 * Maria Cruz, VU University Amsterdam
 * Niels Drost, Netherlands eScience Center
 * Vahid Garousi, Wageningen University & Research
-* Ben van Werkhoven, Netherlands eScience Center 
+* Ben van Werkhoven, Netherlands eScience Center
+* Susan Branchett, Delft University of Technology
+* Mateusz Kuzak, Netherlands eScience Center
