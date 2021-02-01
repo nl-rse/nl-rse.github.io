@@ -23,7 +23,8 @@ header_pages:
  - _pages/events.md
 
 
-exclude: _events/202X-MM-DD-meetup.TEMPLATE.md
+exclude:
+  - _events/202X-MM-DD-meetup.TEMPLATE.md
 
 # Build settings
 markdown: kramdown
