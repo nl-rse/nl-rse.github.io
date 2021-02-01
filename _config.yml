@@ -29,6 +29,15 @@ exclude: _events/202X-MM-DD-meetup.TEMPLATE.md
 markdown: kramdown
 theme: minima
 
+# Plugins
+plugins:
+  - jekyll-feed
+
+# Feed settings
+feed:
+  collections:
+    - events
+
 # Collections
 collections:
   pages:
