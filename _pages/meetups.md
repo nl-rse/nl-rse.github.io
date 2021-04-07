@@ -19,7 +19,7 @@ NL-RSE meetups are the continuation of DTL SURF Programmers meetings. You can le
 
 ## Meetups scheduled for 2021
 * [11 February, 2021](/events/2021-02-11-meetup.html); Online meetup
-* 21 April, 2021; Online meetup
+* [21 April, 2021](/events/2021-04-21-meetup.html); Online meetup
 * 11 June, 2021; Online meetup
 * 15 September, 2021; Online meetup
 * 15 October, 2021; Online meetup
