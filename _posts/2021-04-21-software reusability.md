@@ -1,12 +1,11 @@
 ---
 layout: post
-image: '/img/Class_159_First_Class_Seating.jpg'
+image: '/img/maria-shanina-dWHeuGw0fBM-unsplash.jpg'
 title: "What is really needed for software reusability?"
 excerpt_separator: <!--break-->
 date: 2021-04-02
 ---
-*Image credit: [Clive Warneford](https://commons.wikimedia.org/wiki/File:Class_159_First_Class_Seating.jpg) / [CC BY-SA](https://creativecommons.org/licenses/by-sa/2.0)*
-
+*Photo by <a href="https://unsplash.com/@mariashanina?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Maria Shanina</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>*
 
 Authors:  
 [Faruk Diblen](f.diblen@esciencecenter.nl) / Netherlands eScience Center  
