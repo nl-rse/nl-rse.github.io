@@ -16,7 +16,7 @@ Authors:
 Writing software has become one of the most important parts of the research process. In its simplest form, research software is a single script that can, for example, be used for collecting, processing and/or visualising data. Complex analyses and workflows are consolidated into larger pieces of software that are often the result of research and the subject of papers. The increasing importance of computer code in research is highlighted by the growing level of attention to software from the European Open Science Cloud[^SIRS] and the OECD Recommendation on Access to Research Data which now includes software[^OECD].
 <!--break-->
 
-[^SIRS]: E. C. D. G. for Research and Innovation., Scholarly infrastructures for research software: report from the EOSC Executive Board Working Group (WG) Architecture Task Force (TF) SIRS. LU: Publications Office, 2020. [https://data.europa.eu/doi/10.2777/28598](https://data.europa.eu/doi/10.2777/28598) 
+[^SIRS]: E. C. D. G. for Research and Innovation., Scholarly infrastructures for research software: report from the EOSC Executive Board Working Group (WG) Architecture Task Force (TF) SIRS. LU: Publications Office, 2020. [https://data.europa.eu/doi/10.2777/28598](https://data.europa.eu/doi/10.2777/28598)
 
 [^OECD]: Alan Paic, Making data for science as open as possible to address global challenges [https://oecd-innovation-blog.com/2021/01/20/oecd-recommendation-access-research-data-public-funding-update-covid-19/](https://oecd-innovation-blog.com/2021/01/20/oecd-recommendation-access-research-data-public-funding-update-covid-19/)
 
@@ -61,12 +61,12 @@ Table 1. Minimum requirements list for software reusability
 
 ### eScience Center Reusabilithon
 
-We had initially planned to hold the Reusabilithon with a relatively large group of eScience engineers, as part of our internal activities. However, with the lockdown affecting our capacity early 2021, we changed our plan. Instead of canceling the event, we decided to carry out the event online, and on a small scale. As a bonus, this helped against the lockdown-induced boredom, by breaking the routine and spending some time doing something interesting and fun! 
+We had initially planned to hold the Reusabilithon with a relatively large group of eScience engineers, as part of our internal activities. However, with the lockdown affecting our capacity early 2021, we changed our plan. Instead of canceling the event, we decided to carry out the event online, and on a small scale. As a bonus, this helped against the lockdown-induced boredom, by breaking the routine and spending some time doing something interesting and fun!
 
 Two eScience Center RSEs worked together via Teams for one afternoon. They applied this list to 3 different pieces of software ([sv-callers](https://www.research-software.nl/software/sv-callers), [muscle3](https://github.com/multiscale/muscle3) & [iScore](https://github.com/DeepRank/iScore)) developed in-house. The following are the observations by the engineers in this small reusabilaton:
 
 > “It took us about 1 hour per use case working together, and most time was spent getting the example to work. Independently from how each tool did, we found that the minimum requirements list is fit for purpose – no points in the list felt to us as if they should be left out; we also did not feel that there was something missing in this list.
-> 
+>
 > One point which we did find challenging: it is not easy to determine at a glance if there are any conflicts with the dependencies of the software. It could be helpful to have a check or remark that dependencies have compatible licenses”
 
 This experience describes an encouraging first experiment. However, it was conducted on a very small scale, and by engineers who were vaguely familiar with the software in question.
@@ -75,7 +75,9 @@ As a follow up, a discussion session during the [NL-RSE meetup](https://nl-rse.o
 
 One of the aims of a future *reusabilithon* is to gather more feedback on the suitability of the current reusability checklist and improve it. The long-term aim of such a list is to provide researchers with a useful tool to be able to improve the reusability of the software they produce.
 
-The long term aim of running a *reusabilithon* is making RSE's (and researchers writing research code) aware of what reusability is about and to develop their expertise in using tools to improve reusability. In the future, some of the checks in the reusability checklist could be automated by using tools such as [howfairis](https://github.com/fair-software/howfairis), [fairtally](https://github.com/fair-software/fairtally), [fossa open source compliance management](https://fossa.com/product/open-source-license-compliance), [GFZ software quality assurance](https://gitext.gfz-potsdam.de/software/services/fair/software-quality-assurance), etc. We expect the reusabilithon can help identify additional tools that can automate some checks. However instead of automating everything from the start, we need to validate that the points in this checklist are indeed useful for software reuse.
+The long term aim of running a *reusabilithon* is making RSE's (and researchers writing research code) aware of what reusability is about and to develop their expertise in using tools to improve reusability. In the future, some of the checks in the reusability checklist could be automated by using tools such as [howfairis](https://github.com/fair-software/howfairis), [fairtally](https://github.com/fair-software/fairtally), [fossa open source compliance management](https://fossa.com/product/open-source-license-compliance), [Augur](https://www.augurlabs.io/live-examples/), [GFZ software quality assurance](https://gitext.gfz-potsdam.de/software/services/fair/software-quality-assurance), etc. We expect the reusabilithon can help identify additional tools that can automate some checks. However instead of automating everything from the start, we need to validate that the points in this checklist are indeed useful for software reuse.
 
 ### Are you interested in participating in future reusabilithons? Contact us!
-Dear reader, if you are involved in developing research software -- whether it is in the form of small data analysis scripts or complex libraries -- and you would like to participate in future reusabilithons, please leave a comment or [send an email](mailto:c.martinez@esciencecenter.nl), and join our effort!
+Dear reader, if you are involved in developing research software -- whether it is in the form of small data analysis scripts or complex libraries -- and you would like to participate in future reusabilithons, please leave a comment or send an email to [c.martinez@esciencecenter.nl](mailto:c.martinez@esciencecenter.nl), and join our effort!
+
+### References
