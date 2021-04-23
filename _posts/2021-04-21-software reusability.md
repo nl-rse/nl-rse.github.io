@@ -8,10 +8,10 @@ date: 2021-04-02
 *Photo by <a href="https://unsplash.com/@mariashanina?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Maria Shanina</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>*
 
 Authors:  
-[Faruk Diblen](f.diblen@esciencecenter.nl) / Netherlands eScience Center  
-[Barbara Vreede](b.vreede@esciencecenter.nl) / Netherlands eScience Center  
-[Daniela Gawehns](gawehnsd@liacs.leidenuniv.nl) / Leiden University  
-[Carlos Martinez](c.martinez@esciencecenter.nl) / Netherlands eScience Center  
+[Faruk Diblen](https://twitter.com/fdiblen) / Netherlands eScience Center  
+[Barbara Vreede](https://twitter.com/barbaravreede) / Netherlands eScience Center  
+[Daniela Gawehns](https://twitter.com/dgawehns) / Leiden University  
+[Carlos Martinez](https://twitter.com/neocarlitos) / Netherlands eScience Center  
 
 Writing software has become one of the most important parts of the research process. In its simplest form, research software is a single script that can, for example, be used for collecting, processing and/or visualising data. Complex analyses and workflows are consolidated into larger pieces of software that are often the result of research and the subject of papers. The increasing importance of computer code in research is highlighted by the growing level of attention to software from the European Open Science Cloud[^SIRS] and the OECD Recommendation on Access to Research Data which now includes software[^OECD].
 <!--break-->
