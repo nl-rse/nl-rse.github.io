@@ -12,7 +12,7 @@ collaboration and communication between Research Software Engineers in the Nethe
 During the Covid19 pandemic, meetings will be organised online.
 
 Topics of the lectures and hands-on workshops range from new developments in programming languages
-and frameworks to practical tips for research software engineering, and more.
+and frameworks to practical tips for research software engineers, and more.
 Speakers are usually but not exclusively members of the NL-RSE community (i.e. Dutch Research Software Engineers). The agenda of the meeting leaves plenty of time for participants to interact with each other.
 
 NL-RSE meetups are the continuation of DTL SURF Programmers meetings. You can learn more about those and see past agendas on [DTL website](https://www.dtls.nl/community/meetings/programmers-meetings/).
