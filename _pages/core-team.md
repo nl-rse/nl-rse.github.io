@@ -3,6 +3,11 @@ layout: page
 title: NL-RSE Core Team
 ---
 
+## Lieke de Boer
+![image](/img/core-team/lieke.jpg)
+
+Lieke is a Scientific Community Manager at the eScience Center, who holds a PhD in cognitive neuroscience. At the eScience Center, she organizes workshops and trainings. Her interest in open science and software sustainability brough her to NL-RSE, where she coordinates NL-RSE meetups and writes blog posts. 
+
 ## Anna-Lena Lamprecht
 ![image](/img/core-team/Anna-Lena.jpg)
 
