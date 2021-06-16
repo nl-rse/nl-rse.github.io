@@ -4,7 +4,7 @@ title: Communicate
 ---
 
 Once you have [joined the mailinglist](https://lists.nl-rse.org/mailman/listinfo/everyone), there are several options for getting involved with the dynamic and friendly
-Research Software Engineering community:
+Research Software Engineers community:
 
 ### Join the discussion
 
@@ -22,7 +22,3 @@ Do you have an upcoming event, job opening or other news to share with the commu
 ### Contact the organisers
 
 Would you like to share somethind during our next [meetup](/pages/meetups.html)? Email info@nl-rse.org to get in contact with the NL-RSE committee and conference organisers
-
-
-
-
