@@ -42,7 +42,7 @@ The last 25% is wild. It can be anything. Recently, there was a researcher who w
 
 I also worked on a project that looked at betting behaviour in sports bets, which is similar in some ways to betting in the context of the stock market. The application we developed browsed bookmaking websites to get a feeling for betting odds in sports matches. The application would bet very heavily on one contestant when the odds were 50/50. The goal of this was to try and see if the application could “swing the market”, so other participants would follow the application’s lead. Eventually, there was a very small significant effect of our betting, meaning that people did follow the application’s bets. I was hoping we’d make some money with it, because during the first two months we won quite a lot! Unfortunately, we lost a lot later on. It was a really interesting project, but not a profitable one.  
 
-**Paul:** The work we do at the DIAG may look very focused, but that was the RSE trick: We stripped all the focus away, and ended up with the generic solution for different fields. We don’t tackle the very specific things anymore. What Casper says is right; with a lot of different projects, it’s easy to get completely overwhelmed and not finish things. This is where our structure really helped us out.  
+**Paul:** The work we do at the DIAG may look very focused, but that was the RSE trick: We stripped all the focus away, and ended up with a generic solution for different fields. We don’t tackle the very specific things anymore. What Casper says is right; with a lot of different projects, it’s easy to get completely overwhelmed and not finish things. This is where our structure really helped us out.  
 
 ### What’s staffing and managing an RSE group like? How do you find the right person to hire, and how do you convince funders to keep funding you? 
 
@@ -52,6 +52,6 @@ Our future strategy will be to work more as a remote team. We now have had one y
 
 ### Closing remarks 
 
-Thanks to Casper and Paul for participating in this panel and for their valuable input. It was very interesting to contrast how different RSE groups work. Undoubtedly there is a lot of diversity in the content of their work and in the structure of their groups. 
+Thanks to Casper and Paul for participating in this panel and for sharing their diverse experiences being part of RSE groups. 
 
 Are you an RSE working in a group? Is the structure of your group different from what is described here? We would love to hear your experiences! 
