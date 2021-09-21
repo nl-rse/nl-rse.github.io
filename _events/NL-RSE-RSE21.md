@@ -2,8 +2,11 @@
 layout: post
 image: '/img/logos/Artwork - plural.png'
 title: "NL-RSE Road Show Event"
+excerpt_separator: <!--break-->
 ---
 On 14th October 2021 the international RSE community will celebrate the 1st [International RSE Day](https://society-rse.org/newsletter-july-2021/#:~:text=International%20RSE%20Day). What is it? It is a celebration of RSEs and RSE work -- that means we want to celebrate *you* and *your work*!
+
+<!--break-->
 
 In connection to the international RSE day, we are organising our own local event: the NL-RSE Road Show Event (NL-RSE RSE). The aim is for it to be an inspirational event where RSEs from all over the country get to talk to each other, exchange their experiences and struggles, and are able to make new connections.
 
