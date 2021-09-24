@@ -4,7 +4,7 @@ image: '/img/logos/Artwork - plural.png'
 title: "NL-RSE Road Show Event"
 excerpt_separator: <!--break-->
 ---
-On 14th October 2021 the international RSE community will celebrate the 1st [International RSE Day](https://society-rse.org/newsletter-july-2021/#:~:text=International%20RSE%20Day). What is it? It is a celebration of RSEs and RSE work -- that means we want to celebrate *you* and *your work*!
+On 14th October 2021 the international RSE community will celebrate the 1st [International RSE Day](https://researchsoftware.org/2021/07/29/International-RSE-day.html). What is it? It is a celebration of RSEs and RSE work -- that means we want to celebrate *you* and *your work*!
 
 <!--break-->
 
@@ -14,6 +14,19 @@ We would love for this to be an in-person event. However, given the uncertainty 
 
 ## Call for venues
 We are looking for volunteers from the NL-RSE community to help us host local events! If you are interested in hosting a local event, please get in touch with the core team via [info@nl-rse.org](mailto:info@nl-rse.org) -- we look forward to hearing back from you!
+
+## Venues
+
+### Utrecht
+ - Details: You will need to bring your ticket & [corona certificate](https://www.jaarbeurs.nl/nl/werkwijze-coronatoegangsbewijs).
+ - Address: The HUB - Tribune & Skybar, [Jaarbeurs Innovation Mile (JIM), Jaarbeursplein 6, 3521 AL, Utrecht](https://goo.gl/maps/mTaGAPot7ZUu7aj8A)
+ - [Get your ticket here](https://www.eventbrite.co.uk/e/nl-rse-road-show-event-tickets-178646284847)
+
+### Online
+ - Details: For participants who do not want or cannot join in person, we will host a virtual hub!
+ - Address: Online
+ - [Get your ticket here](https://www.eventbrite.co.uk/e/nl-rse-road-show-event-tickets-178646284847)
+
 
 ## Programme
 
