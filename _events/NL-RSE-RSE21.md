@@ -2,7 +2,7 @@
 layout: post
 image: '/img/logos/Artwork - plural.png'
 title: "NL-RSE Road Show Event"
-date: 2021-10-14
+date: 2021-09-14
 excerpt_separator: <!--break-->
 ---
 On 14th October 2021 the international RSE community will celebrate the 1st [International RSE Day](https://researchsoftware.org/2021/07/29/International-RSE-day.html). What is it? It is a celebration of RSEs and RSE work -- that means we want to celebrate *you* and *your work*!
@@ -40,7 +40,7 @@ We are looking for volunteers from the NL-RSE community to help us host local ev
 | -- | ---- |
 | 14:00 | Welcome by location host (location joins zoom room) |
 | 14:10 | Welcome by zoom host |
-| 14:15 | Keynote on the importance of Software in Science and the role of RSEs |
+| 14:15 | **Keynote**: "The origins and future of Research Software Engineering" <br>by [Matt Williams](https://twitter.com/milliams) |
 | 14:45 | World premiere RSE video |
 | 15:00 |  NL-RSE election -- information session |
 | 15:10 | Launch NL-RSE new website |
