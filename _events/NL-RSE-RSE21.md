@@ -13,9 +13,6 @@ In connection to the international RSE day, we are organising our own local even
 
 We would love for this to be an in-person event. However, given the uncertainty of the COVID situation, we do not think it is wise to encourage people to travel to a central location. For this reason, as a compromise, we would like to organise this event as a collection of connected local events ([Hub & spoke model](https://www.linkedin.com/pulse/using-hub-spoke-hybrid-live-events-re-engage-your-people-thewlis/)), with small local events connected to each other for a shared programme. Our aim is to minimise the need for travel to the event, while maximising the networking opportunity for participants. This will also give us the flexibility to switch to a fully online event if necessary.
 
-## Call for venues
-We are looking for volunteers from the NL-RSE community to help us host local events! If you are interested in hosting a local event, please get in touch with the core team via [info@nl-rse.org](mailto:info@nl-rse.org) -- we look forward to hearing back from you!
-
 ## Venues
 
 ### Utrecht
