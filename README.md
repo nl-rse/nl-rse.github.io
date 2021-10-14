@@ -1,5 +1,4 @@
-
-## The Netherlands Research Software Engineers community
+## The Netherlands Research Software Engineers community (Previous website)
 
 [Join our community](https://lists.nl-rse.org/mailman/listinfo/everyone) of 200+ members from 30+ institutes and stay informed about activities by signing up to our mailing list!
 
